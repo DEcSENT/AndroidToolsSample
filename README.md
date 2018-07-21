@@ -1,5 +1,7 @@
 # Android Tools Sample
 
+[![Build Status](https://travis-ci.org/DEcSENT/AndroidToolsSample.svg?branch=master)](https://travis-ci.org/DEcSENT/AndroidToolsSample)
+
 ## Description
 
 Here will be tools for better application development:
