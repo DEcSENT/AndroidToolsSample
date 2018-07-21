@@ -1,0 +1,43 @@
+language: android
+jdk: oraclejdk8
+
+android:
+  components:
+  - platform-tools
+  - tools
+  - android-27
+  - build-tools-27.0.3
+  - extra-android-m2repository
+
+  #System images for emulator
+  - sys-img-armeabi-v7a-android-19
+  - sys-img-armeabi-v7a-android-21
+  - sys-img-armeabi-v7a-android-25
+
+#Defining android targets
+env:
+  matrix:
+    - ANDROID_TARGET=android-19 ANDROID_ABI=armeabi-v7a
+    - ANDROID_TARGET=android-21 ANDROID_ABI=armeabi-v7a
+    - ANDROID_TARGET=android-27 ANDROID_ABI=armeabi-v7a
+
+before_cache:
+    - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
+
+cache:
+  directories:      #Cache all dirs under .gradle folder
+    - $HOME/.gradle/daemon      #Cache daemon logs
+    - $HOME/.gradle/native      #Cache library downloaded from the gradle dependency
+    - $HOME/.gradle/wrapper     #Cache the gradle
+
+#Increase the ADB connection timeout to selected minutes
+global:
+    - ADB_INSTALL_TIMEOUT=4    #Time out to 4 minutes
+
+before_install:
+- yes | sdkmanager "platforms;android-27"
+
+install:
+  - chmod +x ./gradlew
+
+script: ./gradlew clean assembleDebug
