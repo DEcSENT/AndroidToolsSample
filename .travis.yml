@@ -37,6 +37,9 @@ global:
 before_install:
 - yes | sdkmanager "platforms;android-27"
 
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
+
 install:
   - chmod +x ./gradlew
 
