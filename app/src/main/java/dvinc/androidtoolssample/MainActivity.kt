@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val sample = SampleClass()
-        sample.pingInstructionsMethod()
+        sample.createListWith10Values()
     }
 }

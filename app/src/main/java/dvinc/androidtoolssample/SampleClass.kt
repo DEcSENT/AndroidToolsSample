@@ -5,15 +5,17 @@ package dvinc.androidtoolssample
  */
 class SampleClass {
 
-    fun pingInstructionsMethod() {
+    fun createListWith10Values(): List<Int> {
 
         val magicVal = 10
 
         val list = ArrayList<Int>()
 
-        (0..10).forEach {
+        (0 until 10).forEach {
             list.add(it * magicVal)
         }
+
+        return list
     }
 }
  
