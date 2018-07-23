@@ -39,6 +39,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
 
+//If Coveralls can't find jacoco test report then set correct address manually
 coveralls {
     jacocoReportPath = "${buildDir}/reports/jacocoTestReport/jacocoTestReport.xml"
 }

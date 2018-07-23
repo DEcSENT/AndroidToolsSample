@@ -25,7 +25,7 @@ Here will be tools for better application development:
 
 - **Codecov**
 
-- **Coveralls*
+- **Coveralls**
 
 
 ## Notes
