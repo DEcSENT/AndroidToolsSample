@@ -6,6 +6,8 @@ apply plugin: 'kotlin-android-extensions'
 
 apply from: rootProject.file('jacoco.gradle')
 
+apply plugin: "com.github.kt3k.coveralls"
+
 android {
     compileSdkVersion 27
     defaultConfig {
