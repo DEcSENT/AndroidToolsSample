@@ -1,6 +1,6 @@
 # Android Tools Sample
 
-[![Build Status](https://travis-ci.org/DEcSENT/AndroidToolsSample.svg?branch=master)](https://travis-ci.org/DEcSENT/AndroidToolsSample) [![CircleCI](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master.svg?style=svg)](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master) [![codecov](https://codecov.io/gh/DEcSENT/AndroidToolsSample/branch/master/graph/badge.svg)](https://codecov.io/gh/DEcSENT/AndroidToolsSample)
+[![Build Status](https://travis-ci.org/DEcSENT/AndroidToolsSample.svg?branch=master)](https://travis-ci.org/DEcSENT/AndroidToolsSample) [![CircleCI](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master.svg?style=svg)](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master) [![codecov](https://codecov.io/gh/DEcSENT/AndroidToolsSample/branch/master/graph/badge.svg)](https://codecov.io/gh/DEcSENT/AndroidToolsSample) [![Coverage Status](https://coveralls.io/repos/github/DEcSENT/AndroidToolsSample/badge.svg)](https://coveralls.io/github/DEcSENT/AndroidToolsSample)
 
 
 ## Description
@@ -24,6 +24,8 @@ Here will be tools for better application development:
 - **Circle CI**
 
 - **Codecov**
+
+- **Coveralls*
 
 
 ## Notes
