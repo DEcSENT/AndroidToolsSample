@@ -14,6 +14,6 @@ check_android_task:
         -no-audio \
         -no-window
   wait_for_emulator_script:
-    - adb wait-for-device
+    - android-wait-for-emulator
     - adb shell input keyevent 82
   check_script: ./gradlew check connectedCheck
