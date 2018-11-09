@@ -8,6 +8,8 @@ apply from: rootProject.file('jacoco.gradle')
 
 apply plugin: "com.github.kt3k.coveralls"
 
+apply plugin: 'com.getkeepsafe.dexcount'
+
 android {
     compileSdkVersion 28
     defaultConfig {
@@ -42,4 +44,18 @@ dependencies {
 //If Coveralls can't find jacoco test report then set correct address manually
 coveralls {
     jacocoReportPath = "${buildDir}/reports/jacocoTestReport/jacocoTestReport.xml"
+}
+
+dexcount {
+    format = "list"
+    includeClasses = false
+    includeClassCount = false
+    includeFieldCount = true
+    includeTotalMethodCount = true
+    orderByMethodCount = true
+    verbose = true
+    maxTreeDepth = 2
+    runOnEachPackage = true
+    maxMethodCount = 65000
+    enabled = true
 }
