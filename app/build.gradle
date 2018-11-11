@@ -41,6 +41,22 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    def hyperionVersion = '0.9.24'
+    // Android Hyperion tool
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-core:$hyperionVersion"
+    // Android Hyperion tool plugins
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-core:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-attr:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-measurement:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-disk:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-recorder:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-phoenix:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-crash:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-shared-preferences:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-geiger-counter:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-timber:$hyperionVersion"
+    debugImplementation "com.willowtreeapps.hyperion:hyperion-build-config:$hyperionVersion"
 }
 
 //If Coveralls can't find jacoco test report then set correct address manually
