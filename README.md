@@ -22,6 +22,14 @@ Here will be tools for better application development:
 
 - etc.
 
+## Additional info
+
+**Kotlin version: 1.3**
+
+**Android build tools version: 28.0.3**
+
+**Project supports Android X**
+
 ## Implemented tools
 
 - **Travis CI**
@@ -37,6 +45,12 @@ Here will be tools for better application development:
 - **Bitrise CI** (no config file required)
 
 - **Codebeat** (no config file required)
+
+- **DexCount plugin**
+
+- **Detekt** (static code analysis for Kotlin)
+
+- **Hyperion** (app debugging & inspection tool)
 
 
 ## Notes
