@@ -12,6 +12,8 @@ apply plugin: 'com.getkeepsafe.dexcount'
 
 apply plugin: 'io.gitlab.arturbosch.detekt'
 
+apply plugin: "com.github.konifar.gradle.unused-resources-remover"
+
 android {
     compileSdkVersion 28
     defaultConfig {
