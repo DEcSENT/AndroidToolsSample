@@ -46,11 +46,13 @@ Here will be tools for better application development:
 
 - **Codebeat** (no config file required)
 
-- **DexCount plugin**
+- [**DexCount plugin**](https://github.com/KeepSafe/dexcount-gradle-plugin)
 
-- **Detekt** (static code analysis for Kotlin)
+- [**Detekt**](https://github.com/arturbosch/detekt) (static code analysis for Kotlin)
 
-- **Hyperion** (app debugging & inspection tool)
+- [**Hyperion**](https://github.com/willowtreeapps/Hyperion-Android) (app debugging & inspection tool)
+
+- [**Unused Resources Remover**](https://github.com/konifar/gradle-unused-resources-remover-plugin)
 
 
 ## Notes
