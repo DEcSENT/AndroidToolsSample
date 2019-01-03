@@ -54,6 +54,10 @@ Here will be tools for better application development:
 
 - [**Unused Resources Remover**](https://github.com/konifar/gradle-unused-resources-remover-plugin)
 
+## Other useful tools
+
+- [**ADB Idea  plugin**](https://github.com/pbreault/adb-idea)
+
 
 ## Notes
 
@@ -63,7 +67,7 @@ Here will be tools for better application development:
 
 MIT License
 
-Copyright (c) 2018 Denis Verentsov
+Copyright (c) 2018 - 2019 Denis Verentsov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
