@@ -56,8 +56,13 @@ Here will be tools for better application development:
 
 ## Other useful tools
 
-- [**ADB Idea  plugin**](https://github.com/pbreault/adb-idea)
+- [**ADB Idea plugin**](https://github.com/pbreault/adb-idea)
 
+
+- [**Key Promoter X plugin**](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+
+Shows the user the keyboard short-cuts when a button is pressed with the mouse. This provides an easy way to learn how
+to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development.
 
 ## Notes
 
