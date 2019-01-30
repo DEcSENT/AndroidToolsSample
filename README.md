@@ -64,6 +64,10 @@ Here will be tools for better application development:
 Shows the user the keyboard short-cuts when a button is pressed with the mouse. This provides an easy way to learn how
 to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development.
 
+- [**Statistic plugin**](https://plugins.jetbrains.com/plugin/4509-statistic)
+
+Shows project statistic.
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
