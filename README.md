@@ -68,6 +68,10 @@ to replace tedious mouse work with keyboard keys and helps to transition to a fa
 
 Shows project statistic.
 
+- [**Sourcerer web service**](https://sourcerer.io/)
+
+Sourcerer app makes a visual profile from your GitHub and git repositories.
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
