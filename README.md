@@ -72,6 +72,10 @@ Shows project statistic.
 
 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
+- [**Mobile Security Framework**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+
+Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
