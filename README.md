@@ -68,6 +68,10 @@ to replace tedious mouse work with keyboard keys and helps to transition to a fa
 
 Shows project statistic.
 
+- [**SonarLint plugin**](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+
+SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. 
+
 - [**Sourcerer web service**](https://sourcerer.io/)
 
 Sourcerer app makes a visual profile from your GitHub and git repositories.
