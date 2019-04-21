@@ -5,7 +5,7 @@ ext {
 }
 
 jacoco {
-    toolVersion = "0.8.1"
+    toolVersion = "0.8.3"
     reportsDir = file("$buildDir/reports")
 }
 
