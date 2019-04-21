@@ -78,7 +78,11 @@ Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 - [**Mobile Security Framework**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
-Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing
+Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
+
+- [**Gradle version plugin**](https://github.com/ben-manes/gradle-versions-plugin).
+
+Gradle plugin to discover dependency updates.
 
 ## Notes
 
