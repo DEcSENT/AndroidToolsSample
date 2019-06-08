@@ -1,5 +1,6 @@
 # Android Tools Sample
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c890d64c5d634970b2307348ae48e8a7)](https://app.codacy.com/app/DEcSENT/AndroidToolsSample?utm_source=github.com&utm_medium=referral&utm_content=DEcSENT/AndroidToolsSample&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/DEcSENT/AndroidToolsSample.svg?branch=master)](https://travis-ci.org/DEcSENT/AndroidToolsSample)
 [![CircleCI](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master.svg?style=svg)](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master)
 [![Build Status](https://api.cirrus-ci.com/github/DEcSENT/AndroidToolsSample.svg)](https://cirrus-ci.com/github/DEcSENT/AndroidToolsSample)
