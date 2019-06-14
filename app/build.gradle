@@ -10,8 +10,6 @@ apply plugin: "com.github.kt3k.coveralls"
 
 apply plugin: 'com.getkeepsafe.dexcount'
 
-apply plugin: 'io.gitlab.arturbosch.detekt'
-
 apply plugin: "com.github.konifar.gradle.unused-resources-remover"
 
 apply plugin: "com.github.ben-manes.versions"
