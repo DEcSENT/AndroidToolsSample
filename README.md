@@ -54,7 +54,7 @@ Here will be tools for better application development:
 
 - [**Unused Resources Remover**](https://github.com/konifar/gradle-unused-resources-remover-plugin)
 
-## Other useful tools
+## Plugins
 
 - [**ADB Idea plugin**](https://github.com/pbreault/adb-idea)
 
@@ -72,6 +72,12 @@ Shows project statistic.
 
 SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. 
 
+- [**Gradle version plugin**](https://github.com/ben-manes/gradle-versions-plugin)
+
+Gradle plugin to discover dependency updates.
+
+## Other useful tools
+
 - [**Sourcerer web service**](https://sourcerer.io/)
 
 Sourcerer app makes a visual profile from your GitHub and git repositories.
@@ -80,13 +86,13 @@ Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
 
-- [**Gradle version plugin**](https://github.com/ben-manes/gradle-versions-plugin)
-
-Gradle plugin to discover dependency updates.
-
 - [**ShapeShifter web service**](https://github.com/alexjlockwood/ShapeShifter)
 
 SVG icon animation tool for Android, iOS, and the web.
+
+- [**Source-pilot**](https://github.com/theapache64/source-pilot)
+
+A chrome extension to enable IDE like file navigation in GitHub.
 
 ## Notes
 
