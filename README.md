@@ -94,6 +94,10 @@ SVG icon animation tool for Android, iOS, and the web.
 
 A chrome extension to enable IDE like file navigation in GitHub.
 
+- [**Android Asset Studio**](https://romannurik.github.io/AndroidAssetStudio/index.html)
+
+A collection of tools to easily generate assets such as launcher icons for your Android app.
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
