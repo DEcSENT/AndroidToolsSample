@@ -18,17 +18,9 @@ Here will be tools for better application development:
 
 - Static analysis
 
-- Helpful plugins
+- Helpful plugins, tools
 
 - etc.
-
-## Additional info
-
-**Kotlin version: 1.3**
-
-**Android build tools version: 28.0.3**
-
-**Project supports Android X**
 
 ## Implemented tools
 
@@ -56,29 +48,29 @@ Here will be tools for better application development:
 
 ## Plugins
 
-- [**ADB Idea plugin**](https://github.com/pbreault/adb-idea)
+- [**ADB Idea**](https://github.com/pbreault/adb-idea)
 
 
-- [**Key Promoter X plugin**](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
+- [**Key Promoter X**](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 
 Shows the user the keyboard short-cuts when a button is pressed with the mouse. This provides an easy way to learn how
 to replace tedious mouse work with keyboard keys and helps to transition to a faster, mouse free development.
 
-- [**Statistic plugin**](https://plugins.jetbrains.com/plugin/4509-statistic)
+- [**Statistic**](https://plugins.jetbrains.com/plugin/4509-statistic)
 
 Shows project statistic.
 
-- [**SonarLint plugin**](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+- [**SonarLint**](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
 SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. 
 
-- [**Gradle version plugin**](https://github.com/ben-manes/gradle-versions-plugin)
+- [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
 
 Gradle plugin to discover dependency updates.
 
 ## Other useful tools
 
-- [**Sourcerer web service**](https://sourcerer.io/)
+- [**Sourcerer**](https://sourcerer.io/)
 
 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
@@ -86,7 +78,7 @@ Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
 
-- [**ShapeShifter web service**](https://github.com/alexjlockwood/ShapeShifter)
+- [**ShapeShifter**](https://github.com/alexjlockwood/ShapeShifter)
 
 SVG icon animation tool for Android, iOS, and the web.
 
@@ -106,7 +98,7 @@ A collection of tools to easily generate assets such as launcher icons for your 
 
 MIT License
 
-Copyright (c) 2018 - 2019 Denis Verentsov
+Copyright (c) 2018 - 2020 Denis Verentsov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
