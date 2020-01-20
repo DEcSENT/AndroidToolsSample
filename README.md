@@ -68,6 +68,10 @@ SonarLint is an IDE extension that helps you detect and fix quality issues as yo
 
 Gradle plugin to discover dependency updates.
 
+- [**Grazie**](https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/)
+
+This is a plugin for IntelliJ IDEA that provides intelligent checks beyond simple spelling mistakes and typos. It understands grammar rules and can warn you about inappropriate style.
+
 ## Other useful tools
 
 - [**Sourcerer**](https://sourcerer.io/)
