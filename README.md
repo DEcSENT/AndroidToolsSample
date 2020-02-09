@@ -17,9 +17,11 @@ Here will be tools for better application development:
 
 - Code coverage
 
-- Static analysis
+- Static analysis, code quality
 
-- Helpful plugins, tools
+- Security tools
+
+- Helpful plugins
 
 - etc.
 
@@ -61,9 +63,6 @@ to replace tedious mouse work with keyboard keys and helps to transition to a fa
 
 Shows project statistic.
 
-- [**SonarLint**](https://plugins.jetbrains.com/plugin/7973-sonarlint)
-
-SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. 
 
 - [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
 
@@ -73,15 +72,49 @@ Gradle plugin to discover dependency updates.
 
 This is a plugin for IntelliJ IDEA that provides intelligent checks beyond simple spelling mistakes and typos. It understands grammar rules and can warn you about inappropriate style.
 
+## Code quality, static analysis
+
+- [**Detekt**](https://github.com/arturbosch/detekt)
+
+Static code analysis for Kotlin.
+
+- [**Spotless**](https://github.com/diffplug/spotless)
+
+Static analysis, code formatter, etc.
+
+- [**SonarLint**](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+
+SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. 
+
+## Security 
+
+- [**Mobile Security Framework**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+
+Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
+
+- [**Dependency-Check**](https://github.com/jeremylong/DependencyCheck)
+
+Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies.
+
+## Code coverage
+
+- [**JaCoCo**](https://github.com/jacoco/jacoco)
+
+Code coverage for Java and Kotlin.
+
+- [**Android Root Coverage Plugin**](https://github.com/NeoTech-Software/Android-Root-Coverage-Plugin)
+
+A Gradle plugin for easy generation of combined code coverage reports for Android projects with multiple modules.
+
+- [**Android Junit Jacoco Plugin**](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin)
+
+Gradle plugin that generates JaCoCo reports from an Android Gradle Project. It also works with multiple modules.
+
 ## Other useful tools
 
 - [**Sourcerer**](https://sourcerer.io/)
 
 Sourcerer app makes a visual profile from your GitHub and git repositories.
-
-- [**Mobile Security Framework**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-
-Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
 
 - [**ShapeShifter**](https://github.com/alexjlockwood/ShapeShifter)
 
