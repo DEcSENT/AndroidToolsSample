@@ -63,7 +63,6 @@ to replace tedious mouse work with keyboard keys and helps to transition to a fa
 
 Shows project statistic.
 
-
 - [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
 
 Gradle plugin to discover dependency updates.
@@ -71,6 +70,10 @@ Gradle plugin to discover dependency updates.
 - [**Grazie**](https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/)
 
 This is a plugin for IntelliJ IDEA that provides intelligent checks beyond simple spelling mistakes and typos. It understands grammar rules and can warn you about inappropriate style.
+
+- [**Protein**](https://github.com/AdevintaSpain/Protein)
+
+Protein is a plugin for intelliJ that automates the build of Retrofit "Interfaces" and "models" for Android in Kotlin. It generates the code for Retrofit based on a Swagger endpoint.
 
 ## Code quality, static analysis
 
@@ -84,7 +87,11 @@ Static analysis, code formatter, etc.
 
 - [**SonarLint**](https://plugins.jetbrains.com/plugin/7973-sonarlint)
 
-SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. 
+SonarLint is an IDE extension that helps you detect and fix quality issues as you write code.
+
+- [**Danger Android Lint**](https://github.com/loadsmart/danger-android_lint)
+
+A [Danger](https://danger.systems/ruby/) plugin for Android Lint.
 
 ## Security 
 
@@ -110,6 +117,16 @@ A Gradle plugin for easy generation of combined code coverage reports for Androi
 
 Gradle plugin that generates JaCoCo reports from an Android Gradle Project. It also works with multiple modules.
 
+## Debug
+
+- [**Developer Assistant**](http://appsisle.com/project/developer-assistant/)
+
+A tool for Android developers, testers and designers. Allows to inspect elements, layout, style, even translations directly on mobile devices.
+
+- [**Flipper**](https://fbflipper.com/)
+
+Flipper is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface.
+
 ## Other useful tools
 
 - [**Sourcerer**](https://sourcerer.io/)
@@ -127,6 +144,14 @@ A chrome extension to enable IDE like file navigation in GitHub.
 - [**Android Asset Studio**](https://romannurik.github.io/AndroidAssetStudio/index.html)
 
 A collection of tools to easily generate assets such as launcher icons for your Android app.
+
+- [**Online kotlin compiler**](https://repl.it/languages/kotlin)
+
+Online Kotlin IDE.
+
+- [**Danger**](https://danger.systems/ruby/)
+
+Danger runs during your CI process, and gives teams the chance to automate common code review chores.
 
 ## Notes
 
