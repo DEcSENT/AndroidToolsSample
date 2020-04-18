@@ -26,6 +26,10 @@ Repository with tools for better application development: **CI**, **Code coverag
 
 - [Debug](#debug)
 
+- [Database](#database)
+
+- [Github bots and apps](#github-bots-and-apps)
+
 - [Other useful tools](#other-useful-tools)
 
 ## Implemented tools
@@ -74,6 +78,10 @@ This is a plugin for IntelliJ IDEA that provides intelligent checks beyond simpl
 - [**Protein**](https://github.com/AdevintaSpain/Protein)
 
 Protein is a plugin for intelliJ that automates the build of Retrofit "Interfaces" and "models" for Android in Kotlin. It generates the code for Retrofit based on a Swagger endpoint.
+
+- [**JsonToKotlinClass**](https://github.com/wuseal/JsonToKotlinClass)
+
+Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text.
 
 ## Code quality, static analysis
 
@@ -126,6 +134,18 @@ A tool for Android developers, testers and designers. Allows to inspect elements
 - [**Flipper**](https://fbflipper.com/)
 
 Flipper is a platform for debugging mobile apps on iOS and Android. Visualize, inspect, and control your apps from a simple desktop interface.
+
+## Database
+
+- [**FloorPlan**](https://github.com/julioz/FloorPlan)
+
+Translate Room schemas to Database Markup Language (DBML).
+
+## Github bots and apps
+
+- [**Dependabot**](https://dependabot.com/)
+
+Dependabot creates pull requests to keep your dependencies secure and up-to-date.
 
 ## Other useful tools
 
