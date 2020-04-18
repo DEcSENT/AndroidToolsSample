@@ -3,7 +3,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c890d64c5d634970b2307348ae48e8a7)](https://app.codacy.com/app/DEcSENT/AndroidToolsSample?utm_source=github.com&utm_medium=referral&utm_content=DEcSENT/AndroidToolsSample&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/DEcSENT/AndroidToolsSample.svg?branch=master)](https://travis-ci.org/DEcSENT/AndroidToolsSample)
 [![CircleCI](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master.svg?style=svg)](https://circleci.com/gh/DEcSENT/AndroidToolsSample/tree/master)
-[![Build Status](https://api.cirrus-ci.com/github/DEcSENT/AndroidToolsSample.svg)](https://cirrus-ci.com/github/DEcSENT/AndroidToolsSample)
 [![Build Status](https://app.bitrise.io/app/e920f68a724c7d77/status.svg?token=53c3uzA3vO5MrOdxUWLOGQ&branch=master)](https://app.bitrise.io/app/e920f68a724c7d77)
 [![codecov](https://codecov.io/gh/DEcSENT/AndroidToolsSample/branch/master/graph/badge.svg)](https://codecov.io/gh/DEcSENT/AndroidToolsSample)
 [![Coverage Status](https://coveralls.io/repos/github/DEcSENT/AndroidToolsSample/badge.svg)](https://coveralls.io/github/DEcSENT/AndroidToolsSample)
@@ -11,19 +10,23 @@
 
 ## Description
 
-Here will be tools for better application development:
+Repository with tools for better application development: **CI**, **Code coverage**, **Static analysis**, **Code quality**, **Security tools**, **Plugins**, etc.
 
-- CI
+## Table of content
 
-- Code coverage
+- [Implemented tools](#implemented-tools)
 
-- Static analysis, code quality
+- [Plugins](#plugins)
 
-- Security tools
+- [Code quality, static analysis](#code-quality-static-analysis)
 
-- Helpful plugins
+- [Security](#security)
 
-- etc.
+- [Code coverage](#code-coverage)
+
+- [Debug](#debug)
+
+- [Other useful tools](#other-useful-tools)
 
 ## Implemented tools
 
@@ -34,8 +37,6 @@ Here will be tools for better application development:
 - **Codecov**
 
 - **Coveralls**
-
-- **Cirrus CI**
 
 - **Bitrise CI** (no config file required)
 
@@ -52,7 +53,6 @@ Here will be tools for better application development:
 ## Plugins
 
 - [**ADB Idea**](https://github.com/pbreault/adb-idea)
-
 
 - [**Key Promoter X**](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 
@@ -93,7 +93,7 @@ SonarLint is an IDE extension that helps you detect and fix quality issues as yo
 
 A [Danger](https://danger.systems/ruby/) plugin for Android Lint.
 
-## Security 
+## Security
 
 - [**Mobile Security Framework**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
