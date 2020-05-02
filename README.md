@@ -12,13 +12,13 @@
 
 Repository with tools for better application development: **CI**, **Code coverage**, **Static analysis**, **Code quality**, **Security tools**, **Plugins**, etc.
 
-## Table of content
+## Table of contents
 
 - [Implemented tools](#implemented-tools)
 
 - [Plugins](#plugins)
 
-- [Code quality, static analysis](#code-quality-static-analysis)
+- [Code quality, static analysis](#code-quality-static-analysis-code-formatters)
 
 - [Security](#security)
 
@@ -83,7 +83,7 @@ Protein is a plugin for intelliJ that automates the build of Retrofit "Interface
 
 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text.
 
-## Code quality, static analysis
+## Code quality, static analysis, code formatters
 
 - [**Detekt**](https://github.com/arturbosch/detekt)
 
@@ -100,6 +100,10 @@ SonarLint is an IDE extension that helps you detect and fix quality issues as yo
 - [**Danger Android Lint**](https://github.com/loadsmart/danger-android_lint)
 
 A [Danger](https://danger.systems/ruby/) plugin for Android Lint.
+
+- [**Spotless**](https://github.com/diffplug/spotless)
+
+Powerful code formatter.
 
 ## Security
 
@@ -147,6 +151,10 @@ Translate Room schemas to Database Markup Language (DBML).
 
 Dependabot creates pull requests to keep your dependencies secure and up-to-date.
 
+- [**Prosebot**](https://github.com/JasonEtco/prosebot)
+
+Spelling and prose checks for .md and .txt files on every PR.
+
 ## Other useful tools
 
 - [**Sourcerer**](https://sourcerer.io/)
@@ -172,6 +180,10 @@ Online Kotlin IDE.
 - [**Danger**](https://danger.systems/ruby/)
 
 Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+
+- [**Gource**](https://gource.io/)
+
+Software version control visualization.
 
 ## Notes
 
