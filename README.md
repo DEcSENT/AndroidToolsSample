@@ -185,6 +185,10 @@ Danger runs during your CI process, and gives teams the chance to automate commo
 
 Software version control visualization.
 
+- [**Apk Dependency Graph (ADG)**](https://github.com/alexzaitsev/apk-dependency-graph)
+
+Android class dependency visualizer. This tool helps to visualize the current state of the project.
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
