@@ -83,6 +83,10 @@ Protein is a plugin for intelliJ that automates the build of Retrofit "Interface
 
 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text.
 
+- [**IDEA Mind Map**](https://plugins.jetbrains.com/plugin/8045-idea-mind-map)
+
+IDE-integrated mind map editor.
+
 ## Code quality, static analysis, code formatters
 
 - [**Detekt**](https://github.com/arturbosch/detekt)
