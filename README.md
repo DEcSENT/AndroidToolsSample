@@ -193,6 +193,10 @@ Software version control visualization.
 
 Android class dependency visualizer. This tool helps to visualize the current state of the project.
 
+- [**Dependency Analysis Gradle Plugin**](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+Provides advice for managing dependencies and other applied plugins
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
