@@ -197,6 +197,10 @@ Android class dependency visualizer. This tool helps to visualize the current st
 
 Provides advice for managing dependencies and other applied plugins
 
+- [**Talaiot**](https://github.com/cdsap/Talaiot)
+
+Simple and extensible plugin to track task times in your Gradle Project.
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
