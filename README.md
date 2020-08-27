@@ -22,6 +22,8 @@ Repository with tools for better application development: **CI**, **Code coverag
 
 - [Security](#security)
 
+- [Gradle, build speed, dependencies plugins](#Gradle-build-speed-dependencies-plugins)
+
 - [Code coverage](#code-coverage)
 
 - [Debug](#debug)
@@ -66,10 +68,6 @@ to replace tedious mouse work with keyboard keys and helps to transition to a fa
 - [**Statistic**](https://plugins.jetbrains.com/plugin/4509-statistic)
 
 Shows project statistic.
-
-- [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
-
-Gradle plugin to discover dependency updates.
 
 - [**Grazie**](https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/)
 
@@ -118,6 +116,20 @@ Mobile Security Framework is an automated, all-in-one mobile application (Androi
 - [**Dependency-Check**](https://github.com/jeremylong/DependencyCheck)
 
 Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies.
+
+## Gradle, build speed, dependencies plugins
+
+- [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
+
+Gradle plugin to discover dependency updates.
+
+- [**Dependency Analysis Gradle Plugin**](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+Provides advice for managing dependencies and other applied plugins
+
+- [**Gradle doctor**](https://runningcode.github.io/gradle-doctor/)
+
+The right prescription for your Gradle build.
 
 ## Code coverage
 
@@ -192,10 +204,6 @@ Software version control visualization.
 - [**Apk Dependency Graph (ADG)**](https://github.com/alexzaitsev/apk-dependency-graph)
 
 Android class dependency visualizer. This tool helps to visualize the current state of the project.
-
-- [**Dependency Analysis Gradle Plugin**](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-Provides advice for managing dependencies and other applied plugins
 
 - [**Talaiot**](https://github.com/cdsap/Talaiot)
 
