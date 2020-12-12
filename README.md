@@ -131,6 +131,10 @@ Provides advice for managing dependencies and other applied plugins
 
 The right prescription for your Gradle build.
 
+- [**Talaiot**](https://github.com/cdsap/Talaiot)
+
+Simple and extensible plugin to track task times in your Gradle Project.
+
 ## Code coverage
 
 - [**JaCoCo**](https://github.com/jacoco/jacoco)
