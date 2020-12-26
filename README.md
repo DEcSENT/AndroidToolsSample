@@ -135,6 +135,10 @@ The right prescription for your Gradle build.
 
 Simple and extensible plugin to track task times in your Gradle Project.
 
+- [**Gradle profiler Paired T-test**](https://github.com/dotanuki-labs/gradle-profiler-pttest)
+
+A tool that analyses the outcomes of two Gradle Profiler benchmarks with the Paired T-test statistical technique.
+
 ## Code coverage
 
 - [**JaCoCo**](https://github.com/jacoco/jacoco)
