@@ -56,7 +56,7 @@ Repository with tools for better application development: **CI**, **Code coverag
 
 - [**Unused Resources Remover**](https://github.com/konifar/gradle-unused-resources-remover-plugin)
 
-## Plugins
+## Android studio and IntelliJ plugins
 
 - [**ADB Idea**](https://github.com/pbreault/adb-idea)
 
@@ -117,6 +117,14 @@ Mobile Security Framework is an automated, all-in-one mobile application (Androi
 
 Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project's dependencies.
 
+- [**Privado**](https://github.com/Privado-Inc/privado)
+
+Open Source Static Scanning tool to detect data flows in your code, find data security vulnerabilities & generate accurate Play Store Data Safety Report.
+
+- [**APKiD**](https://github.com/rednaga/APKiD)
+
+APKiD gives you information about how an APK was made. It identifies many compilers, packers, obfuscators, and other weird stuff. It's PEiD for Android.
+
 ## Gradle, build speed, dependencies plugins
 
 - [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
@@ -142,6 +150,10 @@ A tool for gathering profiling and benchmarking information for Gradle builds.
 - [**Gradle Profiler Paired T-test**](https://github.com/dotanuki-labs/gradle-profiler-pttest)
 
 A tool that analyses the outcomes of two Gradle Profiler benchmarks with the Paired T-test statistical technique.
+
+- [**Ruler**](https://github.com/spotify/ruler)
+
+Gradle plugin which helps you analyze the size of your Android apps.
 
 ## Code coverage
 
@@ -221,6 +233,10 @@ Android class dependency visualizer. This tool helps to visualize the current st
 
 Simple and extensible plugin to track task times in your Gradle Project.
 
+- [**scrcpy**](https://github.com/Genymobile/scrcpy)
+
+This application provides display and control of Android devices connected via USB or over TCP/IP. It does not require any root access. It works on GNU/Linux, Windows and macOS.
+
 ## Notes
 
 - Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
@@ -229,7 +245,7 @@ Simple and extensible plugin to track task times in your Gradle Project.
 
 MIT License
 
-Copyright (c) 2018 - 2020 Denis Verentsov
+Copyright (c) 2018 - 2022 Denis Verentsov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
