@@ -181,6 +181,10 @@ Gradle plugin that generates JaCoCo reports from an Android Gradle Project. It a
 
 Massively parallel Android and iOS test runner for Firebase Test Lab.
 
+- [**pitest**](https://github.com/hcoles/pitest)
+
+State of the art mutation testing system for the JVM.
+
 ## Debug
 
 - [**Developer Assistant**](http://appsisle.com/project/developer-assistant/)
