@@ -26,6 +26,8 @@ Repository with tools for better application development: **CI**, **Code coverag
 
 - [Code coverage](#code-coverage)
 
+- [Tests, runners](#Tests-runners)
+
 - [Debug](#debug)
 
 - [Database](#database)
@@ -155,6 +157,10 @@ A tool that analyses the outcomes of two Gradle Profiler benchmarks with the Pai
 
 Gradle plugin which helps you analyze the size of your Android apps.
 
+- [**Gradle Analytics Plugin**](https://github.com/janbarari/gradle-analytics-plugin)
+
+A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.
+
 ## Code coverage
 
 - [**JaCoCo**](https://github.com/jacoco/jacoco)
@@ -168,6 +174,12 @@ A Gradle plugin for easy generation of combined code coverage reports for Androi
 - [**Android Junit Jacoco Plugin**](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin)
 
 Gradle plugin that generates JaCoCo reports from an Android Gradle Project. It also works with multiple modules.
+
+## Tests, runners
+
+- [**Flank**](https://github.com/Flank/flank)
+
+Massively parallel Android and iOS test runner for Firebase Test Lab.
 
 ## Debug
 
@@ -236,6 +248,10 @@ Simple and extensible plugin to track task times in your Gradle Project.
 - [**scrcpy**](https://github.com/Genymobile/scrcpy)
 
 This application provides display and control of Android devices connected via USB or over TCP/IP. It does not require any root access. It works on GNU/Linux, Windows and macOS.
+
+- [**toolargetool**](https://github.com/guardian/toolargetool)
+
+A tool to help you debug TransactionTooLargeExceptions on Android 7+.
 
 ## Notes
 
