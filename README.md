@@ -10,7 +10,7 @@
 
 ## Description
 
-Repository with tools for better application development: **CI**, **Code coverage**, **Static analysis**, **Code quality**, **Security tools**, **Plugins**, etc.
+Repository with tools for better application development: **Plugins**, **Code coverage**, **Static analysis**, **Code quality**, **Security tools**, etc.
 
 ## Table of contents
 
@@ -37,18 +37,6 @@ Repository with tools for better application development: **CI**, **Code coverag
 - [Other useful tools](#other-useful-tools)
 
 ## Implemented tools
-
-- **Travis CI**
-
-- **Circle CI**
-
-- **Codecov**
-
-- **Coveralls**
-
-- **Bitrise CI** (no config file required)
-
-- **Codebeat** (no config file required)
 
 - [**DexCount plugin**](https://github.com/KeepSafe/dexcount-gradle-plugin)
 
@@ -127,6 +115,10 @@ Open Source Static Scanning tool to detect data flows in your code, find data se
 
 APKiD gives you information about how an APK was made. It identifies many compilers, packers, obfuscators, and other weird stuff. It's PEiD for Android.
 
+- [**appshark**](https://github.com/bytedance/appshark)
+
+Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
+
 ## Gradle, build speed, dependencies plugins
 
 - [**Gradle version**](https://github.com/ben-manes/gradle-versions-plugin)
@@ -160,6 +152,10 @@ Gradle plugin which helps you analyze the size of your Android apps.
 - [**Gradle Analytics Plugin**](https://github.com/janbarari/gradle-analytics-plugin)
 
 A free Gradle plugin to analyze your project builds. It provides unique visual and text metrics in HTML format.
+
+- [**Apk Dependency Graph (ADG)**](https://github.com/alexzaitsev/apk-dependency-graph)
+
+Android class dependency visualizer. This tool helps to visualize the current state of the project.
 
 ## Code coverage
 
@@ -241,14 +237,6 @@ Danger runs during your CI process, and gives teams the chance to automate commo
 
 Software version control visualization.
 
-- [**Apk Dependency Graph (ADG)**](https://github.com/alexzaitsev/apk-dependency-graph)
-
-Android class dependency visualizer. This tool helps to visualize the current state of the project.
-
-- [**Talaiot**](https://github.com/cdsap/Talaiot)
-
-Simple and extensible plugin to track task times in your Gradle Project.
-
 - [**scrcpy**](https://github.com/Genymobile/scrcpy)
 
 This application provides display and control of Android devices connected via USB or over TCP/IP. It does not require any root access. It works on GNU/Linux, Windows and macOS.
@@ -257,15 +245,19 @@ This application provides display and control of Android devices connected via U
 
 A tool to help you debug TransactionTooLargeExceptions on Android 7+.
 
-## Notes
+- [**adborc**](https://github.com/mobi-nex/adborc)
 
-- Jacoco plugin version lower than 0.8.1 have exception "**NoSuchFieldException: $jacocoAccess**". This was because lower versions don't support Java 10. Was fixed in 0.8.1.
+Create a network of android devices for remote debugging.
+
+- [**AdbPad**](https://github.com/kaleidot725/AdbPad)
+
+AdpPad is a GUI application to use adb.
 
 ## License
 
 MIT License
 
-Copyright (c) 2018 - 2022 Denis Verentsov
+Copyright (c) 2018 - 2023 Denis Verentsov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
