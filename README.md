@@ -93,10 +93,6 @@ SonarLint is an IDE extension that helps you detect and fix quality issues as yo
 
 A [Danger](https://danger.systems/ruby/) plugin for Android Lint.
 
-- [**Spotless**](https://github.com/diffplug/spotless)
-
-Powerful code formatter.
-
 ## Security
 
 - [**Mobile Security Framework**](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
