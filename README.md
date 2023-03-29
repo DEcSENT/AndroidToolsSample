@@ -32,6 +32,8 @@ Repository with tools for better application development: **Plugins**, **Code co
 
 - [Database](#database)
 
+- [Dagger tools](#dagger-tools)
+
 - [Github bots and apps](#github-bots-and-apps)
 
 - [Other useful tools](#other-useful-tools)
@@ -196,6 +198,16 @@ Flipper is a platform for debugging mobile apps on iOS and Android. Visualize, i
 - [**FloorPlan**](https://github.com/julioz/FloorPlan)
 
 Translate Room schemas to Database Markup Language (DBML).
+
+## Dagger tools
+
+- [**Scabbard**](https://github.com/arunkumar9t2/scabbard/)
+
+A tool to visualize Dagger 2 dependency graphs.
+
+- [**dagger-browser**](https://github.com/Snapchat/dagger-browser)
+
+Simple tool for browsing Dagger graphs generated via an SPI plugin.
 
 ## Github bots and apps
 
